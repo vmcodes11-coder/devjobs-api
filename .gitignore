@@ -1,0 +1,8 @@
+.venv/
+
+devjobs.db
+*.db
+.idea/
+
+.DS_Store
+__pycache__/
